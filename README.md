@@ -24,4 +24,5 @@ The Smart Library Management System (SLMS) is a web-based application designed t
 - Update Member Information
 - Delete Member Record
 - Search Member
+  
 _Last updated during GitHub Actions laboratory._
